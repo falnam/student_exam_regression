@@ -1,8 +1,4 @@
-Berikut adalah **README** yang cocok untuk proyek regresi linear manual kamu, ditulis dengan struktur profesional dan sesuai dengan isi tugas. Kamu bisa langsung gunakan di GitHub atau lampirkan sebagai file `README.md`:
 
----
-
-```markdown
 # 📘 Proyek Prediksi Nilai Ujian Mahasiswa
 
 Proyek ini membangun **model regresi linear manual (tanpa library otomatis)** untuk memprediksi **nilai ujian mahasiswa** berdasarkan **jam belajar per hari** dan **persentase kehadiran**.
@@ -103,8 +99,3 @@ Proyek ini memperkuat pemahaman kami dalam:
 Proyek ini disusun untuk memenuhi tugas **Project-Based Learning (PBL)** mata kuliah *Kecerdasan Buatan*.
 
 ---
-```
-
----
-
-Jika kamu mau, saya bisa bantu juga buat versi `.md` siap pakai atau konversi ke PDF untuk dokumentasi. Mau?
